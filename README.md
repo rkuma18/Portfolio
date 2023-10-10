@@ -8,7 +8,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [AI/ML](#al_ml)
+- [AI/ML](#ai_ml)
 
 
 # Data Engineering
@@ -51,7 +51,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 ***
 
-# ai_ml
+# AI/ML
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
