@@ -4,7 +4,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
-- [Data Analyst](#data-analysis)
+- [Data Analysis](#data-analysis)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
@@ -18,8 +18,15 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 
 ***
+# Data Analysis
 
 # SQL
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+
+
+***
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -42,3 +49,12 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 
 ***
+
+# AI/ML
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+
+
+***
+
