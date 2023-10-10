@@ -20,19 +20,20 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 ***
 # Data Analysis
 
-# SQL
-
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 
 
 ***
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
+# SQL
+
+| Project Link | Area of Analysis | Project Description |
+|---|---|---|---|
 
 
 ***
+
 
 # Python
 
