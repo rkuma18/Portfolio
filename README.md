@@ -18,3 +18,27 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 
 ***
+
+# SQL
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+
+
+***
+
+# Python
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+
+
+***
+
+# Tableau
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+
+
+***
