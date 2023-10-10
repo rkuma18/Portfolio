@@ -51,7 +51,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 ***
 
-# AI/ML
+# ai_ml
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
