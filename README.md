@@ -15,7 +15,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-
+|📈[Real-Time Stock Market Data Analysis Pipeline Using Kafka - An End-to-End Data Engineering Project](https://github.com/rkuma18/Kafka_Project) | OCT 2023 | Python, AWS (EC2, S3, Crawler, Glue Crawler, Glue Catalog, Athena), Kafka, SQL | Developed and implemented an end-to-end ETL pipeline for processing stock market data which were randomly generated.  |
 
 ***
 # Data Analysis
