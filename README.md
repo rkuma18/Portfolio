@@ -56,6 +56,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 |[Generative-AI-with-LLMs](https://github.com/rkuma18/AI-ML/tree/main/Generative-AI-with-%20LLMs) | Large Language Models (LLMs) | This repo contains the weekly Practical Practice problem of course [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms?) | - |
+|[NLP-Basics](https://github.com/rkuma18/AI-ML/tree/main/NLP_Basic) | Natural Language Processing (NLP) | This repo contains the basic of NLP and Machine Learning | Sklearn, Pandas, Numpy |
 
 ***
 
