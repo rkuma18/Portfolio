@@ -5,12 +5,12 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 ---
 
 ## Table of Contents
-- [Data Engineering](#-data-engineering)
-- [Data Analysis](#-data-analysis)
-- [SQL Projects](#-sql-projects)
-- [Python Projects](#-python-projects)
-- [Tableau Dashboards](#-tableau-dashboards)
-- [AI & ML Projects](#-ai--ml-projects)
+- [Data Engineering](#data-engineering)
+- [Data Analysis](#data-analysis)
+- [SQL Projects](#sql-projects)
+- [Python Projects](#python-projects)
+- [Tableau Dashboards](#tableau-dashboards)
+- [AI & ML Projects](#ai--ml-projects)
 
 ---
 
