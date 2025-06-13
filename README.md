@@ -42,7 +42,7 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 
 | 📎 Project | 📁 Area | 📄 Description | 🧰 Libraries |
 |-----------|---------|----------------|---------------|
-| *(Coming Soon)* | — | — | — |
+| [Daily Python Programming](https://github.com/rkuma18/coding-practice) | Python Basic and Advanced | Daily Python programming practice – new question | `python` |
 
 ---
 
@@ -62,6 +62,9 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 | [NLP Basics](https://github.com/rkuma18/AI-ML/tree/main/NLP_Basic) | NLP | Fundamentals of NLP and classical ML models | `sklearn`, `pandas`, `numpy` |
 | [KNN Basics](https://github.com/rkuma18/AI-ML/tree/main/knn) | ML – KNN | Basic KNN classifier with deployment & ONNX export | `sklearn`, `flask`, `annoy`, `joblib`, `skl2onnx` |
 | [BERT Fine-tuning](https://github.com/rkuma18/AI-ML/tree/main/BERT) | NLP – Transformers | Fine-tuning BERT for text classification tasks | `transformers`, `evaluate`, `pandas`, `tokenizers` |
+| [Chest Cancer Classification](https://github.com/rkuma18/Chest_Cancer_Classification) | Deep Learning | A machine learning project for classifying chest cancer using medical imaging data. This project implements a complete ML pipeline with MLflow integration for experiment tracking and model management. | `Python`, `DVC`, `MLflow`, `DagsHub` |
+| [LangGraph](https://github.com/rkuma18/LangChain) | LLM | A comprehensive collection of LangChain and LangGraph implementations showcasing various AI agent architectures and patterns. | `LangChain`, `LangGraph`, `Python`, `OpenAI` |
+| [Medical Insurance Cost Prediction API](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction-API) | Machine Learning | A FastAPI-based machine learning API that predicts medical insurance costs based on user input like age, BMI, smoking status, and more. Built for easy deployment, clear validation, and model versioning. | `Python`, `FastAPI`, `Pydantic`, `Uvicorn`, `Pandas`, `Docker` |
 
 ---
 
