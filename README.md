@@ -71,9 +71,7 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 | [AI Resume Classifier](https://github.com/rkuma18/Resume_Filtering) | Machine Learning | This is an intelligent resume classification pipeline that uses BERT sentence embeddings and structured features to predict the most suitable job category for a given resume. It's designed to help automate HR screening, job board categorization, or AI-based resume filtering systems. | `sentence-transformers`, `python`, `pandas`, `GridSearchCV` |
 | [Chat with Documents RAG Application](https://github.com/rkuma18/RAG_Powered_Chatbot) | GEN AI | A Retrieval-Augmented Generation (RAG) application built with Streamlit, FastAPI, LangChain, and ChromaDB. Interact with your documents through a conversational interface powered by OpenAI models. | `python`, `GPT-4o`, `ChromaDB`, `FastAPI` |
 | [Currency Converter Agent](https://github.com/rkuma18/Currency_Converter_Agent) | GEN AI | This project is a chat-based web app built using Streamlit, powered by LangChain and OpenAI APIs. It enables natural language interaction with tools or agents you define in main.py. | `LangChain`, `python`, `Streamlit`, `OpenAI` |
-| [AI Sticky Notes (MCP App)](https://github.com/rkuma18/Custom_MCP) | GEN AI | AI Sticky Notes is a simple tool built with MCP (Multi-Modal Command Protocol) that allows users to save, read, and summarize sticky notes through tool and resource calls. This server provides endpoints for interacting with a file-based notes system using an AI interface.
-
- | `python`, `FASTMCP` |
+| [AI Sticky Notes (MCP App)](https://github.com/rkuma18/Custom_MCP) | GEN AI | AI Sticky Notes is a simple tool built with MCP (Multi-Modal Command Protocol) that allows users to save, read, and summarize sticky notes through tool and resource calls. This server provides endpoints for interacting with a file-based notes system using an AI interface.| `python`, `FASTMCP` |
 
 ---
 
