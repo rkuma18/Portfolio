@@ -48,11 +48,11 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 
 ---
 
-## Tableau Dashboards
+## Dashboards
 
 | 📎 Project | 📄 Description | 🔗 Dashboard Link |
 |-----------|----------------|------------------|
-| *(Coming Soon)* | — | — |
+| [Credit Card Default Analysis - Power BI](https://github.com/rkuma18/Credit-Card-Default-Analysis-Power-BI) | This Power BI project investigates credit card default patterns across various demographic dimensions such as education level, age, sex, state, and marital status. The objective is to identify key trends and risk segments that influence the likelihood of credit card defaults. | — |
 
 ---
 
@@ -61,7 +61,7 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 | 📎 Project | 🧠 Area | 📄 Description | 🧰 Libraries |
 |-----------|--------|----------------|--------------|
 | [Generative AI with LLMs](https://github.com/rkuma18/AI-ML/tree/main/Generative-AI-with-%20LLMs) | LLMs | Weekly problem sets from Coursera's GenAI course | — |
-| [NLP Basics](https://github.com/rkuma18/AI-ML/tree/main/NLP_Basic) | NLP | Fundamentals of NLP and classical ML models | `sklearn`, `pandas`, `numpy` |
+| [NLP Basics](https://github.com/rkuma18/AI-ML/tree/main/NLP_Basic) | NLP | Fundamentals of NLP and classical ML models | `python`, `sklearn`, `pandas`, `numpy` |
 | [KNN Basics](https://github.com/rkuma18/AI-ML/tree/main/knn) | ML – KNN | Basic KNN classifier with deployment & ONNX export | `sklearn`, `flask`, `annoy`, `joblib`, `skl2onnx` |
 | [BERT Fine-tuning](https://github.com/rkuma18/AI-ML/tree/main/BERT) | NLP – Transformers | Fine-tuning BERT for text classification tasks | `transformers`, `evaluate`, `pandas`, `tokenizers` |
 | [Chest Cancer Classification](https://github.com/rkuma18/Chest_Cancer_Classification) | Deep Learning | A machine learning project for classifying chest cancer using medical imaging data. This project implements a complete ML pipeline with MLflow integration for experiment tracking and model management. | `Python`, `DVC`, `MLflow`, `DagsHub` |
@@ -72,6 +72,8 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 | [Chat with Documents RAG Application](https://github.com/rkuma18/RAG_Powered_Chatbot) | GEN AI | A Retrieval-Augmented Generation (RAG) application built with Streamlit, FastAPI, LangChain, and ChromaDB. Interact with your documents through a conversational interface powered by OpenAI models. | `python`, `GPT-4o`, `ChromaDB`, `FastAPI` |
 | [Currency Converter Agent](https://github.com/rkuma18/Currency_Converter_Agent) | GEN AI | This project is a chat-based web app built using Streamlit, powered by LangChain and OpenAI APIs. It enables natural language interaction with tools or agents you define in main.py. | `LangChain`, `python`, `Streamlit`, `OpenAI` |
 | [AI Sticky Notes (MCP App)](https://github.com/rkuma18/Custom_MCP) | GEN AI | AI Sticky Notes is a simple tool built with MCP (Multi-Modal Command Protocol) that allows users to save, read, and summarize sticky notes through tool and resource calls. This server provides endpoints for interacting with a file-based notes system using an AI interface.| `python`, `FASTMCP` |
+| [Quora Question Pairs](https://github.com/rkuma18/1_ML_QuoraQuestionPairs) | Machine Learning | The goal of this competition is to identify which questions asked on Quora are duplicates of questions that have already been asked. This could be useful to instantly provide answers to questions that have already been answered.| `python`, `sklearn`, `pandas`, `numpy`, `XGBoost`, `t-SNE` |
+| [Amazon Fine Food Reviews Analysis]([https://github.com/rkuma18/1_ML_QuoraQuestionPairs](https://github.com/rkuma18/DS_Amazon-Fine-Food-Reviews-Analysis)) | This repository contains code for analyzing and predicting sentiment from Amazon Fine Food Reviews dataset. The code is implemented in Python and utilizes various natural language processing (NLP) techniques and machine learning algorithms.| `python`, `sklearn`, `pandas`, `numpy`, `XGBoost`, `nltk`,`gensim` |
 
 ---
 
