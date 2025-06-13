@@ -26,7 +26,9 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 
 | 📎 Project | 🗓 Date | 🛠 Tools | 📄 Description |
 |-----------|--------|----------|----------------|
-| *(Coming Soon)* | — | — | — |
+| [EDI in Maths Support – Cardiff University](https://github.com/rkuma18/EDI-in-Maths-Support-Cardiff-University) | 2022 | Equality, Diversity, and Inclusion (EDI) research project conducted in collaboration with the School of Mathematics at Cardiff University. This project investigates how EDI is reflected within the Maths Support services, with a focus on identifying gaps and proposing data-driven improvements. | `python`, `Pandas`, `numpy` |
+| [Uplimit Sydney Airbnb Analysis](https://github.com/rkuma18/Uplimit-Sydney-Airbnb-Analysis) | 2023 | This repository contains an analysis of Airbnb data for listings in Sydney, Australia. The data includes information on listings, reviews, neighborhoods, and calendar availability. | `python`, `Pandas`, `numpy`, `seaborn` |
+| [Airline Review Analysis](https://github.com/rkuma18/NLP_Airline_Review_Analysis) | 2023 | This project analyzing airline reviews. I scraped over 1000 reviews from a website and did some natural language processing on the text to uncover insights. | `python`, `Pandas`, `numpy`, `seaborn` |
 
 ---
 
@@ -65,6 +67,13 @@ Welcome to my portfolio! This is a curated collection of my work in **Deep Learn
 | [Chest Cancer Classification](https://github.com/rkuma18/Chest_Cancer_Classification) | Deep Learning | A machine learning project for classifying chest cancer using medical imaging data. This project implements a complete ML pipeline with MLflow integration for experiment tracking and model management. | `Python`, `DVC`, `MLflow`, `DagsHub` |
 | [LangGraph](https://github.com/rkuma18/LangChain) | LLM | A comprehensive collection of LangChain and LangGraph implementations showcasing various AI agent architectures and patterns. | `LangChain`, `LangGraph`, `Python`, `OpenAI` |
 | [Medical Insurance Cost Prediction API](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction-API) | Machine Learning | A FastAPI-based machine learning API that predicts medical insurance costs based on user input like age, BMI, smoking status, and more. Built for easy deployment, clear validation, and model versioning. | `Python`, `FastAPI`, `Pydantic`, `Uvicorn`, `Pandas`, `Docker` |
+| [Medical Insurance Cost Prediction](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction) | Machine Learning | This project is a machine learning-based application that predicts medical insurance costs based on various factors. The application uses advanced machine learning algorithms to provide accurate cost predictions and offers an interactive web interface for users to input their information and get instant predictions. | `Python`, `Scikit-learn`, `XGBoost`, `Pandas` , `Streamlit`|
+| [AI Resume Classifier](https://github.com/rkuma18/Resume_Filtering) | Machine Learning | This is an intelligent resume classification pipeline that uses BERT sentence embeddings and structured features to predict the most suitable job category for a given resume. It's designed to help automate HR screening, job board categorization, or AI-based resume filtering systems. | `sentence-transformers`, `python`, `pandas`, `GridSearchCV` |
+| [Chat with Documents RAG Application](https://github.com/rkuma18/RAG_Powered_Chatbot) | GEN AI | A Retrieval-Augmented Generation (RAG) application built with Streamlit, FastAPI, LangChain, and ChromaDB. Interact with your documents through a conversational interface powered by OpenAI models. | `python`, `GPT-4o`, `ChromaDB`, `FastAPI` |
+| [Currency Converter Agent](https://github.com/rkuma18/Currency_Converter_Agent) | GEN AI | This project is a chat-based web app built using Streamlit, powered by LangChain and OpenAI APIs. It enables natural language interaction with tools or agents you define in main.py. | `LangChain`, `python`, `Streamlit`, `OpenAI` |
+| [AI Sticky Notes (MCP App)](https://github.com/rkuma18/Custom_MCP) | GEN AI | AI Sticky Notes is a simple tool built with MCP (Multi-Modal Command Protocol) that allows users to save, read, and summarize sticky notes through tool and resource calls. This server provides endpoints for interacting with a file-based notes system using an AI interface.
+
+ | `python`, `FASTMCP` |
 
 ---
 
