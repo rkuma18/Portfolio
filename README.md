@@ -1,83 +1,86 @@
-# Roushan's Data Portfolio
+# 🚀 Roushan's Data Portfolio
 
-Welcome to my portfolio! This is a curated collection of my work in **Deep Learning, Analytics, Machine Learning**, and more. Each project showcases tools, problem-solving, and real-world impact.
+Welcome! I’m Roushan — a data professional passionate about solving real-world problems through **Data Engineering, Analysis, AI, and ML**.  
+Explore my curated projects below ⬇️
 
----
-
-## Table of Contents
-- [Data Engineering](#data-engineering)
-- [Data Analysis](#data-analysis)
-- [SQL Projects](#sql-projects)
-- [Python Projects](#python-projects)
-- [Tableau Dashboards](#tableau-dashboards)
-- [AI & ML Projects](#ai--ml-projects)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rk0718)
 
 ---
 
-## Data Engineering
-
-| 📎 Project | 🗓 Date | ⚙️ Tools | 📄 Description |
-|-----------|--------|---------|----------------|
-| [Real-Time Stock Data Pipeline](https://github.com/rkuma18/Data-Engineering/tree/main/Kafka_Project) | Oct 2023 | Python, Kafka, AWS EC2, S3, Glue, Athena, SQL | Built an end-to-end streaming ETL pipeline to simulate real-time stock data ingestion and analysis using Kafka and AWS. |
-
----
-
-## Data Analysis
-
-| 📎 Project | 🗓 Date | 🛠 Tools | 📄 Description |
-|-----------|--------|----------|----------------|
-| [EDI in Maths Support – Cardiff University](https://github.com/rkuma18/EDI-in-Maths-Support-Cardiff-University) | 2022 | Equality, Diversity, and Inclusion (EDI) research project conducted in collaboration with the School of Mathematics at Cardiff University. This project investigates how EDI is reflected within the Maths Support services, with a focus on identifying gaps and proposing data-driven improvements. | `python`, `Pandas`, `numpy` |
-| [Uplimit Sydney Airbnb Analysis](https://github.com/rkuma18/Uplimit-Sydney-Airbnb-Analysis) | 2023 | This repository contains an analysis of Airbnb data for listings in Sydney, Australia. The data includes information on listings, reviews, neighborhoods, and calendar availability. | `python`, `Pandas`, `numpy`, `seaborn` |
-| [Airline Review Analysis](https://github.com/rkuma18/NLP_Airline_Review_Analysis) | 2023 | This project analyzing airline reviews. I scraped over 1000 reviews from a website and did some natural language processing on the text to uncover insights. | `python`, `Pandas`, `numpy`, `seaborn` |
+## 📌 Table of Contents
+- [🔧 Data Engineering](#-data-engineering)
+- [📊 Data Analysis](#-data-analysis)
+- [🗃️ SQL Projects](#️-sql-projects)
+- [🐍 Python Projects](#-python-projects)
+- [📈 Dashboards](#-dashboards)
+- [🧠 AI & ML Projects](#-ai--ml-projects)
 
 ---
 
-## SQL Projects
+## 🔧 Data Engineering
 
-| 📎 Project | 📊 Domain | 📄 Description |
-|-----------|-----------|----------------|
-| *(Coming Soon)* | — | — |
-
----
-
-## Python Projects
-
-| 📎 Project | 📁 Area | 📄 Description | 🧰 Libraries |
-|-----------|---------|----------------|---------------|
-| [Daily Python Programming](https://github.com/rkuma18/coding-practice) | Python Basic and Advanced | Daily Python programming practice – new question | `python` |
+| Project | Date | Tools | Description |
+|--------|------|-------|-------------|
+| [Real-Time Stock Data Pipeline](https://github.com/rkuma18/Data-Engineering/tree/main/Kafka_Project) | Oct 2023 | Python, Kafka, AWS (EC2, S3, Glue, Athena), SQL | Simulated real-time stock data ingestion and built a streaming ETL pipeline on AWS using Kafka. |
 
 ---
 
-## Dashboards
+## 📊 Data Analysis
 
-| 📎 Project | 📄 Description | 🔗 Dashboard Link |
-|-----------|----------------|------------------|
-| [Credit Card Default Analysis - Power BI](https://github.com/rkuma18/Credit-Card-Default-Analysis-Power-BI) | This Power BI project investigates credit card default patterns across various demographic dimensions such as education level, age, sex, state, and marital status. The objective is to identify key trends and risk segments that influence the likelihood of credit card defaults. | — |
-
----
-
-## AI & ML Projects
-
-| 📎 Project | 🧠 Area | 📄 Description | 🧰 Libraries |
-|-----------|--------|----------------|--------------|
-| [Generative AI with LLMs](https://github.com/rkuma18/AI-ML/tree/main/Generative-AI-with-%20LLMs) | LLMs | Weekly problem sets from Coursera's GenAI course | — |
-| [NLP Basics](https://github.com/rkuma18/AI-ML/tree/main/NLP_Basic) | NLP | Fundamentals of NLP and classical ML models | `python`, `sklearn`, `pandas`, `numpy` |
-| [KNN Basics](https://github.com/rkuma18/AI-ML/tree/main/knn) | ML – KNN | Basic KNN classifier with deployment & ONNX export | `sklearn`, `flask`, `annoy`, `joblib`, `skl2onnx` |
-| [BERT Fine-tuning](https://github.com/rkuma18/AI-ML/tree/main/BERT) | NLP – Transformers | Fine-tuning BERT for text classification tasks | `transformers`, `evaluate`, `pandas`, `tokenizers` |
-| [Chest Cancer Classification](https://github.com/rkuma18/Chest_Cancer_Classification) | Deep Learning | A machine learning project for classifying chest cancer using medical imaging data. This project implements a complete ML pipeline with MLflow integration for experiment tracking and model management. | `Python`, `DVC`, `MLflow`, `DagsHub` |
-| [LangGraph](https://github.com/rkuma18/LangChain) | LLM | A comprehensive collection of LangChain and LangGraph implementations showcasing various AI agent architectures and patterns. | `LangChain`, `LangGraph`, `Python`, `OpenAI` |
-| [Medical Insurance Cost Prediction API](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction-API) | Machine Learning | A FastAPI-based machine learning API that predicts medical insurance costs based on user input like age, BMI, smoking status, and more. Built for easy deployment, clear validation, and model versioning. | `Python`, `FastAPI`, `Pydantic`, `Uvicorn`, `Pandas`, `Docker` |
-| [Medical Insurance Cost Prediction](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction) | Machine Learning | This project is a machine learning-based application that predicts medical insurance costs based on various factors. The application uses advanced machine learning algorithms to provide accurate cost predictions and offers an interactive web interface for users to input their information and get instant predictions. | `Python`, `Scikit-learn`, `XGBoost`, `Pandas` , `Streamlit`|
-| [AI Resume Classifier](https://github.com/rkuma18/Resume_Filtering) | Machine Learning | This is an intelligent resume classification pipeline that uses BERT sentence embeddings and structured features to predict the most suitable job category for a given resume. It's designed to help automate HR screening, job board categorization, or AI-based resume filtering systems. | `sentence-transformers`, `python`, `pandas`, `GridSearchCV` |
-| [Chat with Documents RAG Application](https://github.com/rkuma18/RAG_Powered_Chatbot) | GEN AI | A Retrieval-Augmented Generation (RAG) application built with Streamlit, FastAPI, LangChain, and ChromaDB. Interact with your documents through a conversational interface powered by OpenAI models. | `python`, `GPT-4o`, `ChromaDB`, `FastAPI` |
-| [Currency Converter Agent](https://github.com/rkuma18/Currency_Converter_Agent) | GEN AI | This project is a chat-based web app built using Streamlit, powered by LangChain and OpenAI APIs. It enables natural language interaction with tools or agents you define in main.py. | `LangChain`, `python`, `Streamlit`, `OpenAI` |
-| [AI Sticky Notes (MCP App)](https://github.com/rkuma18/Custom_MCP) | GEN AI | AI Sticky Notes is a simple tool built with MCP (Multi-Modal Command Protocol) that allows users to save, read, and summarize sticky notes through tool and resource calls. This server provides endpoints for interacting with a file-based notes system using an AI interface.| `python`, `FASTMCP` |
-| [Quora Question Pairs](https://github.com/rkuma18/1_ML_QuoraQuestionPairs) | Machine Learning | The goal of this competition is to identify which questions asked on Quora are duplicates of questions that have already been asked. This could be useful to instantly provide answers to questions that have already been answered.| `python`, `sklearn`, `pandas`, `numpy`, `XGBoost`, `t-SNE` |
-| [Amazon Fine Food Reviews Analysis](https://github.com/rkuma18/DS_Amazon-Fine-Food-Reviews-Analysis) |Machine Learning| This repository contains code for analyzing and predicting sentiment from Amazon Fine Food Reviews dataset. The code is implemented in Python and utilizes various natural language processing (NLP) techniques and machine learning algorithms.| `python`, `sklearn`, `pandas`, `numpy`, `XGBoost`, `nltk`,`gensim` |
+| Project | Date | Tools | Description |
+|--------|------|-------|-------------|
+| [EDI in Maths Support – Cardiff University](https://github.com/rkuma18/EDI-in-Maths-Support-Cardiff-University) | 2022 | Python, Pandas, NumPy | Research project investigating Equity, Diversity & Inclusion (EDI) in maths support services. |
+| [Uplimit Sydney Airbnb Analysis](https://github.com/rkuma18/Uplimit-Sydney-Airbnb-Analysis) | 2023 | Python, Pandas, Seaborn | Insights from Airbnb listings in Sydney — availability, reviews, pricing, and neighborhoods. |
+| [Airline Review Analysis](https://github.com/rkuma18/NLP_Airline_Review_Analysis) | 2023 | Python, NLP, Seaborn | Scraped and analyzed airline reviews using NLP to extract key themes and sentiments. |
 
 ---
 
-🔄 *More projects and dashboards will be added regularly. Stay tuned!*
+## 🗃️ SQL Projects
 
-📫 Want to collaborate? [Let's connect on LinkedIn →](https://www.linkedin.com/in/rk0718)
+| Project | Domain | Description |
+|--------|--------|-------------|
+| *(Coming Soon)* | — | Exciting SQL-based business cases in progress! |
 
+---
+
+## 🐍 Python Projects
+
+| Project | Area | Libraries | Description |
+|--------|------|-----------|-------------|
+| [Daily Python Programming](https://github.com/rkuma18/coding-practice) | Core Python | Python | A growing collection of daily Python problems and solutions from basic to advanced. |
+
+---
+
+## 📈 Dashboards
+
+| Project | Description | Link |
+|--------|-------------|------|
+| [Credit Card Default Analysis - Power BI](https://github.com/rkuma18/Credit-Card-Default-Analysis-Power-BI) | Visual analysis of credit card defaults across demographics and geography. | *(Link coming soon)* |
+
+---
+
+## 🧠 AI & ML Projects
+
+| Project | Area | Tools/Libraries | Description |
+|--------|------|----------------|-------------|
+| [Generative AI with LLMs](https://github.com/rkuma18/AI-ML/tree/main/Generative-AI-with-%20LLMs) | LLMs | Coursera | Weekly GenAI problem sets, LLM use cases and prompting. |
+| [NLP Basics](https://github.com/rkuma18/AI-ML/tree/main/NLP_Basic) | NLP | Scikit-learn, Pandas | Text processing, TF-IDF, classical ML models for NLP tasks. |
+| [KNN Basics](https://github.com/rkuma18/AI-ML/tree/main/knn) | ML | Scikit-learn, Flask, ONNX | Basic KNN classifier with web deployment and ONNX export. |
+| [BERT Fine-tuning](https://github.com/rkuma18/AI-ML/tree/main/BERT) | Transformers | HuggingFace Transformers | Fine-tuning BERT on text classification datasets. |
+| [Chest Cancer Classification](https://github.com/rkuma18/Chest_Cancer_Classification) | Deep Learning | DVC, MLflow, DagsHub | Medical imaging pipeline with model management and tracking. |
+| [LangGraph](https://github.com/rkuma18/LangChain) | LLM Agents | LangChain, LangGraph | End-to-end LangGraph agent architectures. |
+| [Medical Insurance Cost Prediction API](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction-API) | ML | FastAPI, Docker | REST API for insurance cost prediction using user inputs. |
+| [Medical Insurance Cost Prediction](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction) | ML + App | Streamlit, XGBoost | Interactive app for predicting medical insurance costs. |
+| [AI Resume Classifier](https://github.com/rkuma18/Resume_Filtering) | NLP + ML | BERT, Sentence Transformers | Classifies resumes into categories using embeddings and metadata. |
+| [Chat with Documents (RAG)](https://github.com/rkuma18/RAG_Powered_Chatbot) | GenAI | LangChain, FastAPI | Chat interface for document Q&A powered by RAG architecture. |
+| [Currency Converter Agent](https://github.com/rkuma18/Currency_Converter_Agent) | GenAI | LangChain, Streamlit | Conversational agent for currency queries with live rates. |
+| [AI Sticky Notes (MCP App)](https://github.com/rkuma18/Custom_MCP) | AI Productivity | FASTMCP | Save, summarize, and query sticky notes with AI commands. |
+| [Quora Question Pairs](https://github.com/rkuma18/1_ML_QuoraQuestionPairs) | NLP + Classification | XGBoost, TSNE | Identify duplicate Quora questions with classical ML/NLP. |
+| [Amazon Fine Food Reviews](https://github.com/rkuma18/DS_Amazon-Fine-Food-Reviews-Analysis) | Sentiment Analysis | NLTK, Gensim | NLP and sentiment modeling on food review data. |
+
+---
+
+🔄 *More exciting projects and dashboards coming soon!*
+
+📬 **Let’s connect** for projects, collabs, or freelance:  
+👉 [LinkedIn →](https://www.linkedin.com/in/rk0718)
