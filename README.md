@@ -69,7 +69,7 @@ Explore my curated projects below.
 | [BERT Fine-tuning](https://github.com/rkuma18/AI-ML/tree/main/BERT) | Transformers | HuggingFace Transformers | Fine-tuning BERT on text classification datasets. |
 | [Chest Cancer Classification](https://github.com/rkuma18/Chest_Cancer_Classification) | Deep Learning | DVC, MLflow, DagsHub | Medical imaging pipeline with model management and tracking. |
 | [LangGraph](https://github.com/rkuma18/LangChain) | LLM Agents | LangChain, LangGraph | End-to-end LangGraph agent architectures. |
-| [Agentic AI by LangGraph](https://github.com/rkuma18/agentic-ai-by-langgraph) | LangGraph Workflows | Python, Jupyter Notebooks | Demos and workflows using LangGraph for agentic AI applications, including BMI calculation, prompt chaining, and LLM orchestration. |
+| [Agentic AI by LangGraph](https://github.com/rkuma18/agentic-ai-by-langgraph) | LangGraph Workflows | Python, Jupyter Notebooks, LangGraph, LangSmith | Demos and workflows using LangGraph for agentic AI applications, including BMI calculation, prompt chaining, and LLM orchestration. |
 | [Medical Insurance Cost Prediction API](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction-API) | ML | FastAPI, Docker | REST API for insurance cost prediction using user inputs. |
 | [Medical Insurance Cost Prediction](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction) | ML + App | Streamlit, XGBoost | Interactive app for predicting medical insurance costs. |
 | [AI Resume Classifier](https://github.com/rkuma18/Resume_Filtering) | NLP + ML | BERT, Sentence Transformers | Classifies resumes into categories using embeddings and metadata. |
