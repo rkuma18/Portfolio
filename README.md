@@ -1,23 +1,23 @@
-# 🚀 Roushan's Data Portfolio
+# Roushan's Data Portfolio
 
-Welcome! I’m Roushan — a data professional passionate about solving real-world problems through **Data Engineering, Analysis, AI, and ML**.  
-Explore my curated projects below ⬇️
+Welcome! I’m Roushan — a data professional passionate about solving real-world problems through Data Engineering, Analysis, AI, and ML.  
+Explore my curated projects below.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rk0718)
-
----
-
-## 📌 Table of Contents
-- [🔧 Data Engineering](#-data-engineering)
-- [📊 Data Analysis](#-data-analysis)
-- [🗃️ SQL Projects](#️-sql-projects)
-- [🐍 Python Projects](#-python-projects)
-- [📈 Dashboards](#-dashboards)
-- [🧠 AI & ML Projects](#-ai--ml-projects)
+[Connect on LinkedIn](https://www.linkedin.com/in/rk0718)
 
 ---
 
-## 🔧 Data Engineering
+## Table of Contents
+- [Data Engineering](#data-engineering)
+- [Data Analysis](#data-analysis)
+- [SQL Projects](#sql-projects)
+- [Python Projects](#python-projects)
+- [Dashboards](#dashboards)
+- [AI & ML Projects](#ai--ml-projects)
+
+---
+
+## Data Engineering
 
 | Project | Date | Tools | Description |
 |--------|------|-------|-------------|
@@ -25,7 +25,7 @@ Explore my curated projects below ⬇️
 
 ---
 
-## 📊 Data Analysis
+## Data Analysis
 
 | Project | Date | Tools | Description |
 |--------|------|-------|-------------|
@@ -35,7 +35,7 @@ Explore my curated projects below ⬇️
 
 ---
 
-## 🗃️ SQL Projects
+## SQL Projects
 
 | Project | Domain | Description |
 |--------|--------|-------------|
@@ -43,7 +43,7 @@ Explore my curated projects below ⬇️
 
 ---
 
-## 🐍 Python Projects
+## Python Projects
 
 | Project | Area | Libraries | Description |
 |--------|------|-----------|-------------|
@@ -51,7 +51,7 @@ Explore my curated projects below ⬇️
 
 ---
 
-## 📈 Dashboards
+## Dashboards
 
 | Project | Description | Link |
 |--------|-------------|------|
@@ -59,7 +59,7 @@ Explore my curated projects below ⬇️
 
 ---
 
-## 🧠 AI & ML Projects
+## AI & ML Projects
 
 | Project | Area | Tools/Libraries | Description |
 |--------|------|----------------|-------------|
@@ -69,6 +69,7 @@ Explore my curated projects below ⬇️
 | [BERT Fine-tuning](https://github.com/rkuma18/AI-ML/tree/main/BERT) | Transformers | HuggingFace Transformers | Fine-tuning BERT on text classification datasets. |
 | [Chest Cancer Classification](https://github.com/rkuma18/Chest_Cancer_Classification) | Deep Learning | DVC, MLflow, DagsHub | Medical imaging pipeline with model management and tracking. |
 | [LangGraph](https://github.com/rkuma18/LangChain) | LLM Agents | LangChain, LangGraph | End-to-end LangGraph agent architectures. |
+| [Agentic AI by LangGraph](https://github.com/rkuma18/agentic-ai-by-langgraph) | LangGraph Workflows | Python, Jupyter Notebooks | Demos and workflows using LangGraph for agentic AI applications, including BMI calculation, prompt chaining, and LLM orchestration. |
 | [Medical Insurance Cost Prediction API](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction-API) | ML | FastAPI, Docker | REST API for insurance cost prediction using user inputs. |
 | [Medical Insurance Cost Prediction](https://github.com/rkuma18/Medical-Insurance-Cost-Prediction) | ML + App | Streamlit, XGBoost | Interactive app for predicting medical insurance costs. |
 | [AI Resume Classifier](https://github.com/rkuma18/Resume_Filtering) | NLP + ML | BERT, Sentence Transformers | Classifies resumes into categories using embeddings and metadata. |
@@ -80,7 +81,7 @@ Explore my curated projects below ⬇️
 
 ---
 
-🔄 *More exciting projects and dashboards coming soon!*
+More exciting projects and dashboards coming soon!
 
-📬 **Let’s connect** for projects, collabs, or freelance:  
-👉 [LinkedIn →](https://www.linkedin.com/in/rk0718)
+Contact me for collaborations, freelance, or data consulting:  
+[LinkedIn →](https://www.linkedin.com/in/rk0718)
