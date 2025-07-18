@@ -55,7 +55,7 @@ Explore my curated projects below.
 
 | Project | Description | Link |
 |--------|-------------|------|
-| [Credit Card Default Analysis - Power BI](https://github.com/rkuma18/Credit-Card-Default-Analysis-Power-BI) | Visual analysis of credit card defaults across demographics and geography. | *(Link coming soon)* |
+| [Credit Card Default Analysis - Power BI](https://github.com/rkuma18/Credit-Card-Default-Analysis-Power-BI) | Visual analysis of credit card defaults across demographics and geography. | *(NA)* |
 
 ---
 
